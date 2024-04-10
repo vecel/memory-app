@@ -1,0 +1,21 @@
+header {
+    min-height: 10vh;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    min-height: 80vh;
+}
+
+footer {
+    min-height: 10vh;
+}
+
+#scoreboard {
+    width: 20%;
+}
+
+#gameboard {
+    width: 80%;
+}
