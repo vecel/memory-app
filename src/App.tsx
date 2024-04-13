@@ -3,6 +3,7 @@ import Main from './components/Main'
 
 import './App.css'
 import Footer from './components/Footer'
+import Cursor from './components/Cursor'
 
 const App = (): JSX.Element => {
 
@@ -11,6 +12,8 @@ const App = (): JSX.Element => {
       <Header />
       <Main />
       <Footer />
+
+      <Cursor />
     </>
   )
 }
